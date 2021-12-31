@@ -5,3 +5,4 @@ All aproved Noble Soft OS:
 - Noble Soft 7 Mobile
 - Noble Soft 8
   - Noble Soft 8 Pro
+  - test
