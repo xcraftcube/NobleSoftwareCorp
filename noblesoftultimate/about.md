@@ -9,4 +9,4 @@ List od snapshots:
   
 List of approved versions:
 - Noble Soft Ultimate 1.0 : 30.04.2021 (13:28)
-- Noble Soft Ultimate 1.1 : 30.04.2021 ( 14:58)
+- Noble Soft Ultimate 1.1 : 30.04.2021 (14:58)
