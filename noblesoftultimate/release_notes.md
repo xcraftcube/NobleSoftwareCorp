@@ -29,7 +29,7 @@
 ### 01w03a : 28.04.2021 (19:16)
 
 #### New Features:
-- Added the ability to open Google Chrome, open the This Computer folder, the ability to open and shut down the computer using the N menu, added freezed clock and youtube banner and N menu.
+- Added the ability to open Google Chrome, open the This Computer folder, the ability to open and shut down the computer using the N menu, added freezed clock, youtube banner and N menu.
 
 [Download](https://www.mediafire.com/file/bb2t2mktq348brx/Noble_Software_Ultimate_01w03a.sb3/file)
 
