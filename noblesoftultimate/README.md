@@ -8,7 +8,7 @@
 - 01w04a
 - 01w05a
 - 01w06a
-- 
+
 ### List of approved versions:
 - Noble Soft Ultimate 1.0
 - Noble Soft Ultimate 1.1
