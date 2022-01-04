@@ -4,7 +4,7 @@ This is my first OS project I've created in Scratch.
 
 For the name Noble Soft I was inspired by the game Thief Simulator, where OS boxes just appeared, mainly Noble Soft, but also SoftBox and PC Master Soft.
 
-![alt](file:///C:/Users/domin/Desktop/Scratch/Noble%20Soft%20System/NobleSoft%20logo.jpg)
+![Noble Soft's orginal box]](file:///C:/Users/domin/Desktop/Scratch/Noble%20Soft%20System/NobleSoft%20logo.jpg)
 
 
 
