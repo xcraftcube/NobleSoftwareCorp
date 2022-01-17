@@ -29,7 +29,6 @@
 - Added possibility to open the Trash bin, possibility to open the applications via N menu, added youtube icon and possibility to open Youtube.
 
 [Download](https://www.mediafire.com/file/oseee58bls49cp4/Noble_Software_Ultimate_01w04a.sb3/file)
->>>>>>> fbd85670def7ac3f29cdd0819d316021a8ae259d
 
 ### 01w05a : 29.04.2021 (9:38)
 
