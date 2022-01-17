@@ -1,6 +1,6 @@
 # Noble Software Ultimate
 
-# About Noble Software Ultimate:
+## About Noble Software Ultimate:
 
 This is my first OS project I've created in Scratch.
 
@@ -19,6 +19,6 @@ As this was my first OS project in Scratch I didn't create the image files mysel
 - 01w05a
 - 01w06a
 
-### List of approved versions:
+### List of full versions:
 - Noble Soft Ultimate 1.0
 - Noble Soft Ultimate 1.1
